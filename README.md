@@ -5,7 +5,7 @@ SimpleRatingBar allows us to create a RatingBar with margin between items
 ## Download
 To add the SimpleRatingBar library to your Android Studio project, simply add the following gradle dependency:
 ```java
-compile 'com.borjabravo:simpleratingbar:1.0.0'
+implementation 'com.github.kxbyte:SimpleRatingBar:1.0.0'
 ```
 
 ## Usage
